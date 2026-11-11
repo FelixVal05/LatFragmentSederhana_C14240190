@@ -6,7 +6,8 @@
     tools:context=".fDua"
     android:background="#FEE2AD"
     android:padding="16dp"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:gravity="center">
 
     <TextView
         android:layout_width="wrap_content"
